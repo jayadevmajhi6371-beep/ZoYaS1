@@ -1,0 +1,6 @@
+{
+  "name": "NJ Assistant",
+  "description": "A sassy, flirty, and witty real-time voice assistant powered by Gemini Live with deep Android device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
